@@ -1,1 +1,1 @@
-# senior-project-Unique-User-Authentication-via-Behavioral-Metrics
+This is the repository for our senior project on unique user authentication using behavioral metrics. This research was conducted by Laz Bradley, Rick Carbone, and Wil Mullin. 
